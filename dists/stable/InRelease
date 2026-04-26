@@ -5,39 +5,39 @@ Origin: xDarkicex
 Label: libravdbd
 Suite: stable
 Codename: stable
-Version: 1.4.18
+Version: 1.4.19
 Architectures: amd64 arm64
 Components: main
 Description: libraVDB daemon — AI-native vector database
-Date: Sun, 26 Apr 2026 03:31:44 UTC
+Date: Sun, 26 Apr 2026 03:37:27 UTC
 MD5:
-      1678 main/binary-amd64/Packages
-       695 main/binary-amd64/Packages.gz
-      1678 main/binary-arm64/Packages
-       693 main/binary-arm64/Packages.gz
+ 0c5775ae9007d8a0a997cb141f31ca83     2517 main/binary-amd64/Packages
+       802 main/binary-amd64/Packages.gz
+ 12c854c49dbbaed5af66598717627379     2517 main/binary-arm64/Packages
+       798 main/binary-arm64/Packages.gz
 SHA1:
-      1678 main/binary-amd64/Packages
-       695 main/binary-amd64/Packages.gz
-      1678 main/binary-arm64/Packages
-       693 main/binary-arm64/Packages.gz
+ 2f83a32702b526c0502e573cc2c3b2f9aefff984     2517 main/binary-amd64/Packages
+       802 main/binary-amd64/Packages.gz
+ 94b1744e30bf150f551feb68d5d6ec4e655244a3     2517 main/binary-arm64/Packages
+       798 main/binary-arm64/Packages.gz
 SHA256:
-      1678 main/binary-amd64/Packages
-       695 main/binary-amd64/Packages.gz
-      1678 main/binary-arm64/Packages
-       693 main/binary-arm64/Packages.gz
+ 5be87ec26adfbc2866f43f99b15d77a8830a03660597fc408e8cf2fee3a3d6fa     2517 main/binary-amd64/Packages
+       802 main/binary-amd64/Packages.gz
+ 1971d8eaacd2b47df363098b2324212af41efd0f317765a734b25977e6b07fe5     2517 main/binary-arm64/Packages
+       798 main/binary-arm64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEESxm2iMlSmt1Gs3gz7/ZP0DLj1DYFAmnthyAACgkQ7/ZP0DLj
-1Dal5g//aXqcde7N2s1Ld1/5uw5URjharEUzlNNxzUIKmcgWDtTFu5Cju7qX5bly
-Av60RUrZZF7eH/BpgiEVklT/4gwGC5ypYRmiC6yX8G3MMFers57LQCqPwtPWjI0d
-v6UbHuUhJedSYYvX8/A29ueTCUCxzFUXS9f4IegXMTOop/tCWdob5CnrRTKwJ+hq
-0wyKVmW55d0BOzDMhpwEueiJiDqho4NhPqFu+X25YijN1Z/8X82bw8QHTpTpRFOI
-hIXwkpNjVdfjHhgK4ejXmXWMvKRLITHx3Pn9HkWmfUiUgGs4jMYhBTNs8dR6L10o
-1lRhtjL2rHo0VLUBoMn3KQJVfouMCAE7bOu7XhQ056VGsBV9YdbsWqG1B8lUkjpO
-0B5KhGXlCjB4ancdcJ3epK8KmzCaF5S/bT+aKjx3Kz97bvlzRVmmHni3sqgkfTC0
-57CqxtScE/AFKzLzIkZgnLwvWXDe6J230qfnncuV+ZWIYQMGnMBmFzCfjnvZG+DN
-0cJIMaSKRdekbV5hiWP0cJLW9LZMbNxqdXjfRKBBQhQaDCibmpOm7edgWV1zZvyw
-mlsWG9r7voDaIHIHpPRna9f7rPiwFZaIODMIsd0b0P6cjfCWtiAohlRPg1KF4dH3
-P6Bvo5xCAQH6pCM0v3GcPz+nXcM2+LFbIWX5q8neSZTppu4NYzE=
-=mYG6
+iQIzBAEBCgAdFiEESxm2iMlSmt1Gs3gz7/ZP0DLj1DYFAmntiHgACgkQ7/ZP0DLj
+1Db0lhAAjKAf1zoEFz5vh0/X7OZdO82BGgo801xfv0VpF/gAW4im8GId4T4+GXKp
+UTJ1h8A0O81Nw1k3BdBUyhLB6rT2ncJHQB66AuGTOXHxc4MejNcB5HHMM0jDzi07
+SBncrhJ/zxmoZcx91iako19c3+oLgRBBnpAbTq8XVmYE4jai76RElHrg9+Ig3bXx
+OuwDAzr78/+eVR3ld2f55pTvPIVZsGE6SeV2tL1SdBDAEh0y7Xpia8wpUnKUnEDP
+sdgupUJWU4FRU+hzU1JYznLwzkcsl4pTkQjjo2wZFDbjLQcMbAz1QSuaXJPABhRl
+LjSqDAFmkpU9fS486LHS4dHECjW/mNj8RIJBpPRSwE8N5BZBiU9L3GQb+2F6SQlL
+rE3lacbyStBXDpydvrl1LqZXrAp7tmP2GcgwV2br8qU/7k3RJBpT8fR5scqoGepe
+RuJ0D6Sh+RkfvBeSs3Hx7iDlDaTk/F3+0VwLbn7vDzNCJHL+uHfQzPXrVpTqZRGe
+ukk+G9dajVRVLjVHkN3kS6xhb+1X1/i/KkIfIQyN+xDFVbkU4+13xE1EmVxyTakg
+5kVOZTjUf/SZq9SlyFEBKFKm7Dcx/sN9btCyZFdAGljHPwrdrVl6Y2AyoOY3GbhD
+ineuxMB8hWuwtynwZ3mwijLSvxl3z38/krRBfOUmVkTc4JSW/+g=
+=V9XA
 -----END PGP SIGNATURE-----

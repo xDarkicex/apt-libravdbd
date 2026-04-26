@@ -2,23 +2,23 @@ Origin: xDarkicex
 Label: libravdbd
 Suite: stable
 Codename: stable
-Version: 1.4.18
+Version: 1.4.19
 Architectures: amd64 arm64
 Components: main
 Description: libraVDB daemon — AI-native vector database
-Date: Sun, 26 Apr 2026 03:31:44 UTC
+Date: Sun, 26 Apr 2026 03:37:27 UTC
 MD5:
-      1678 main/binary-amd64/Packages
-       695 main/binary-amd64/Packages.gz
-      1678 main/binary-arm64/Packages
-       693 main/binary-arm64/Packages.gz
+ 0c5775ae9007d8a0a997cb141f31ca83     2517 main/binary-amd64/Packages
+       802 main/binary-amd64/Packages.gz
+ 12c854c49dbbaed5af66598717627379     2517 main/binary-arm64/Packages
+       798 main/binary-arm64/Packages.gz
 SHA1:
-      1678 main/binary-amd64/Packages
-       695 main/binary-amd64/Packages.gz
-      1678 main/binary-arm64/Packages
-       693 main/binary-arm64/Packages.gz
+ 2f83a32702b526c0502e573cc2c3b2f9aefff984     2517 main/binary-amd64/Packages
+       802 main/binary-amd64/Packages.gz
+ 94b1744e30bf150f551feb68d5d6ec4e655244a3     2517 main/binary-arm64/Packages
+       798 main/binary-arm64/Packages.gz
 SHA256:
-      1678 main/binary-amd64/Packages
-       695 main/binary-amd64/Packages.gz
-      1678 main/binary-arm64/Packages
-       693 main/binary-arm64/Packages.gz
+ 5be87ec26adfbc2866f43f99b15d77a8830a03660597fc408e8cf2fee3a3d6fa     2517 main/binary-amd64/Packages
+       802 main/binary-amd64/Packages.gz
+ 1971d8eaacd2b47df363098b2324212af41efd0f317765a734b25977e6b07fe5     2517 main/binary-arm64/Packages
+       798 main/binary-arm64/Packages.gz
