@@ -2,23 +2,23 @@ Origin: xDarkicex
 Label: libravdbd
 Suite: stable
 Codename: stable
-Version: 1.4.19
+Version: 1.4.20
 Architectures: amd64 arm64
 Components: main
 Description: libraVDB daemon — AI-native vector database
-Date: Sun, 26 Apr 2026 03:37:27 UTC
-MD5:
- 0c5775ae9007d8a0a997cb141f31ca83     2517 main/binary-amd64/Packages
-       802 main/binary-amd64/Packages.gz
- 12c854c49dbbaed5af66598717627379     2517 main/binary-arm64/Packages
-       798 main/binary-arm64/Packages.gz
+Date: Sun, 26 Apr 2026 04:02:41 UTC
+MD5Sum:
+ 0eeed9fb00b2503968892169da2ea458     3356 main/binary-amd64/Packages
+ a9a84a580a89a0435efadaa74e400c7f      910 main/binary-amd64/Packages.gz
+ 6e936e8b01e998345bde481cbeb4f06b     3356 main/binary-arm64/Packages
+ 50014096b8fff3d9adbdfc4f4e2cd801      901 main/binary-arm64/Packages.gz
 SHA1:
- 2f83a32702b526c0502e573cc2c3b2f9aefff984     2517 main/binary-amd64/Packages
-       802 main/binary-amd64/Packages.gz
- 94b1744e30bf150f551feb68d5d6ec4e655244a3     2517 main/binary-arm64/Packages
-       798 main/binary-arm64/Packages.gz
+ f3c1249474751f4ba2b7e60df587aafec7af8e03     3356 main/binary-amd64/Packages
+ 16fe920526817b6be60642e039285ea886c72a68      910 main/binary-amd64/Packages.gz
+ 6c47f6e69220a616fa618d3c2459a26fecf4d9ca     3356 main/binary-arm64/Packages
+ 8ddb3506f3c7be4ddd720dacd5cf738200754558      901 main/binary-arm64/Packages.gz
 SHA256:
- 5be87ec26adfbc2866f43f99b15d77a8830a03660597fc408e8cf2fee3a3d6fa     2517 main/binary-amd64/Packages
-       802 main/binary-amd64/Packages.gz
- 1971d8eaacd2b47df363098b2324212af41efd0f317765a734b25977e6b07fe5     2517 main/binary-arm64/Packages
-       798 main/binary-arm64/Packages.gz
+ a4a15c50a3d9a59aa5032a5f80d5482fca7544275a2aa26824f0a923ebcc1790     3356 main/binary-amd64/Packages
+ 2ed416f3010d68772ea8c8e9bd9f5e8e8a21e86666df43b00893b512913977bb      910 main/binary-amd64/Packages.gz
+ 4543908a03c234f879023bbe68953c233bdc11b545e82fbd234bd280c520c32c     3356 main/binary-arm64/Packages
+ 2c5e34ba054e47318b8612c7022caf26423ee7a0a3247b264aede5acbb3fe3aa      901 main/binary-arm64/Packages.gz
