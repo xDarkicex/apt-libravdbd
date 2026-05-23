@@ -2,23 +2,23 @@ Origin: xDarkicex
 Label: libravdbd
 Suite: stable
 Codename: stable
-Version: 1.4.79
+Version: 1.4.80
 Architectures: amd64 arm64
 Components: main
 Description: libraVDB daemon — AI-native vector database
-Date: Sat, 23 May 2026 16:57:37 UTC
+Date: Sat, 23 May 2026 19:06:51 UTC
 MD5Sum:
- a25bc06f6a8b40532fbf6bf3436f22b7    39445 main/binary-amd64/Packages
- 3e6fcbef2e2395ed7f8edf0a23e30a48     5351 main/binary-amd64/Packages.gz
- a995c9eaa12273470998b78a3be9af6d    39445 main/binary-arm64/Packages
- 8d59b9c89b5c5e8f189b965909f157d7     5356 main/binary-arm64/Packages.gz
+ 1a665389c7420beba045b63417b650d0    40284 main/binary-amd64/Packages
+ 6ad35631e11f53f5a4538f5020ad1a29     5452 main/binary-amd64/Packages.gz
+ 94a0050592f51bbca8d2320911aaa833    40284 main/binary-arm64/Packages
+ 65f6f001cfaba6291e4b7efb83373145     5458 main/binary-arm64/Packages.gz
 SHA1:
- 2be0eca904934b8d0adb8ca967377dbbc07b9a72    39445 main/binary-amd64/Packages
- 26020718510e87240fde7fa95017946da436b173     5351 main/binary-amd64/Packages.gz
- 4274b78274490b73e0d9b1bc1e1f67c54cf20988    39445 main/binary-arm64/Packages
- 24bf3cfb1e8421e4b2cbfc7ddc911ae919c92d1b     5356 main/binary-arm64/Packages.gz
+ e01a926fa097df848592ed8d3515bb08f121a91f    40284 main/binary-amd64/Packages
+ 73f284eb0dd91c1a9b48a6d18e45285784460840     5452 main/binary-amd64/Packages.gz
+ 3dc3189e11f064a5052938d7dae5be714e4efb0e    40284 main/binary-arm64/Packages
+ 7e8475d58322239a438214a841058691dd62176a     5458 main/binary-arm64/Packages.gz
 SHA256:
- 300c596d8d350702b9825536ef626cf84f3ee274ebad82825699b15f30ee4009    39445 main/binary-amd64/Packages
- 097ed8d30d6fe63af877170572815d74f7643aa55db5c9e18cceff9ca37cdb2c     5351 main/binary-amd64/Packages.gz
- 5941493ac2283a66352f6ff65d74be48ec3fded52c0f947edbf14d93849d8128    39445 main/binary-arm64/Packages
- e32b2c6d9b773767a9401d9f3d733cbfe03f9d23ca7e438f9a89cc60ab71606a     5356 main/binary-arm64/Packages.gz
+ 47767e7d21b0c2f7954aac90e88d257e75363bf3f0b436a630b85599b251c8bb    40284 main/binary-amd64/Packages
+ 768b868ee89c048bdab229c083b155fa7a7f1502ef4a1043fd34326122272d95     5452 main/binary-amd64/Packages.gz
+ a348bd90790a258cae7f70fdb161bd3e12df5ea2436c71a34be44efc2d71c150    40284 main/binary-arm64/Packages
+ 5b6931f72431584e8ee23ee31aa913b32bc19a7007b020aaf982e8da41001698     5458 main/binary-arm64/Packages.gz
