@@ -1747,10 +1747,10 @@ Architecture: amd64
 Maintainer: xDarkicex <contact@darkicex.com>
 Depends: libc6 (>= 2.17), libgomp1
 Filename: pool/main/stable/libravdbd_1.9.3_amd64.deb
-Size: 23105802
-MD5sum: a6fb5f4a4a5933a20e9e1b7b0c3a48b2
-SHA1: 74e612a5eae0b671920192a6d48f610bd7b5bc8f
-SHA256: 6364f378ab2d177c366e8114ca3294031d87d286ed44c57f1cc7bab8a7699852
+Size: 23105880
+MD5sum: 6f14333c094ede3bdb2c643d098a9616
+SHA1: 1292ef8d7eef611747052192638b704361bd2781
+SHA256: becf591401311eb7815c2632145dfec1c34161ff30beb522a37c3d6a8965571c
 Section: utils
 Priority: optional
 Description: libraVDB daemon — AI-native vector database with ML embeddings
