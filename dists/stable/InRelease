@@ -5,39 +5,39 @@ Origin: xDarkicex
 Label: libravdbd
 Suite: stable
 Codename: stable
-Version: 1.9.36-beta.4
+Version: 1.9.36-beta.5
 Architectures: amd64 arm64
 Components: main
 Description: libraVDB daemon — AI-native vector database
-Date: Sat, 22 Aug 2026 01:13:17 UTC
+Date: Sat, 22 Aug 2026 03:35:08 UTC
 MD5Sum:
- a581781f3c9c47f7af7dc3fb4b379745    75419 main/binary-amd64/Packages
- df82b1f5ab98d3ad21a577af5e9ef79c     9723 main/binary-amd64/Packages.gz
- dabc3f192d44fd3cf0a487959d77d9fb    75419 main/binary-arm64/Packages
- df1c37e6dd39e041d299645b0cd6c2af     9746 main/binary-arm64/Packages.gz
+ 0ef8451a36a08e97a69aff4b4f2cb351    76294 main/binary-amd64/Packages
+ 8a9a736da664faf54e4d0ef294ead90d     9828 main/binary-amd64/Packages.gz
+ a366588830607ed2624b779742a05112    76294 main/binary-arm64/Packages
+ 3e7e4d114b13150971f27abb7d0a29c6     9845 main/binary-arm64/Packages.gz
 SHA1:
- 0b9df6b8f12ef7675975534a70cbecaa4ee08716    75419 main/binary-amd64/Packages
- a2e7bf1a997fa4bf9e440736388624f2c3af66f6     9723 main/binary-amd64/Packages.gz
- 52d90f400e6a3c6ef428fde9b56c362b2cb8a476    75419 main/binary-arm64/Packages
- ba73f5b88b556c0713c6ddc122c6aeb835fa2931     9746 main/binary-arm64/Packages.gz
+ cab9095da3f40979502b7662a6029403efd912a4    76294 main/binary-amd64/Packages
+ cc286473fb1f68780a8dfcbc7f3982d6389d1ccc     9828 main/binary-amd64/Packages.gz
+ 0ccb4647313e58a2e3b5366c6dc474a20f27ae46    76294 main/binary-arm64/Packages
+ fc4b8782e57242bff27115fb3cc4bcde5ca08f13     9845 main/binary-arm64/Packages.gz
 SHA256:
- c01e2611cb37435efc3a9995cfd7379fd2463b40e82ce51cff8d26ca5c482e16    75419 main/binary-amd64/Packages
- 71245d4cb120aed28cc74a139f4bf494debef09f9372310072f7df86856e05a9     9723 main/binary-amd64/Packages.gz
- 4176bedfbe30dce01de009a340563468b8556ad79e2e1a9a3cc7ce479ec2d0cd    75419 main/binary-arm64/Packages
- ca718b2b97b8657ae8150d4d9c4a3b7205dc92167e10b2d2b462dc178e399f5f     9746 main/binary-arm64/Packages.gz
+ d2e6ea04ddca5235e14c6ae0d305be94af8de2626c03c06fbcb8ee9451f903b5    76294 main/binary-amd64/Packages
+ 7867d5890499f7449637eea0b072262b2a0f614738beb18335138f029ed05bdf     9828 main/binary-amd64/Packages.gz
+ f9fb01b7df75c4268473fd8e1b30defd01185b31395f1fae5648c21fc79ce02e    76294 main/binary-arm64/Packages
+ 5f7a89786a76f5702ba7a9ebf9c2492759c21ac9472187576648712c13ea47ae     9845 main/binary-arm64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEESxm2iMlSmt1Gs3gz7/ZP0DLj1DYFAmqI960ACgkQ7/ZP0DLj
-1DYxpA/8CE6338nvRmiQtLXIaA4JfCKsVYFBXmQaB9TcD1jnWBb9OCZojQzkfe9k
-j9sypyVL/1VvjXPqX2Mu+sbaY8ssWgGbJAMx04QTwDXOURJEQYaMrCV9C5KrAP0u
-TnsgCe4TlFZ2MF5RXNx1jLek5VI2/UwPVjqv6kS8PtpvVrWTUZJSe5HLWSWLDGPu
-SNr+lk46tVTryh/6Hz9hbURmHnnb0otytgKgA6aHM1KvQWB2ILTkD8wdDxVj0zUt
-iR/qwexAb39hXK2ngx4XIf528uCpHlYi3mJgKElXQeAxcQvHLmSi469IVl3tcUIa
-HLWsGTmIjgotxU9Ddrgg0IqQA7ld1VugL09kCUiarEADloHJPVoaYWvwgU4D5cba
-KodIKcpLNk1hfs87oTc2NbMJls3qLoibQ+vBWOxYUQZIlsEDcvCi7hZoNY27qYKE
-RsbI4qsf2nW2D1Id0+7bCm4eYaYQQpkidI1gj1i1psS08oOsVpuNzBA9HVUWKXi1
-KF+S6zcGcdbZBFgDWOP2Akqb7khV95QEXFViii/4XzpDq+m4A3fgVv2nPKTpAo2Q
-oEcnrMtzxSV32ZNwbeL36XVQsY5J4o+vBrkzszMlb6dgGcBcV6bp83tM4q82XmMF
-/6bJD16p6bRucv/eZqLOTAWcZDkVdRskr4FUT6qzp9VX4df7QsM=
-=zkpo
+iQIzBAEBCgAdFiEESxm2iMlSmt1Gs3gz7/ZP0DLj1DYFAmqJGOwACgkQ7/ZP0DLj
+1DaBmg//blkrPxqCWK1vYmRoaYqQahGSdQ+AuuW6LuiYTD2sho33lGijiBqkrhZD
+2tLm3s0HjP2hZOY9lF210gjXLRG4z1GWLwEula8FYe0LgTmJVBKfqGLLlwm/EfYP
+irvf+p41MQRCBmnoK1eqCMsFclZSlOIuCck7rvCz5Li3OZzMbQ74jbE1gs7Mw4Fp
+KN3ljOarjYumsWRfGlLauYp0rCvIogRzBq4sDEGPgM24dDuqPjCWQBsFHRisu2uD
+79itIYqr+XfpY22ErIgtB8ogPyeMevp2nmzjgyrVXOHYTvYW/Birz6hurDbQvQ9C
+t4R1jxVY2iP+zCxapDD2tzzvZGzd2D6z/ycWFF3e44ZFWupwxaZvEgJir07SD7Ts
+XvmYVSDTH8553UqrK1NSzkGWNPX2vl6TB6sl833WPDAH0AZu5dSsEXV8DZTundRW
+/MnALWz1MWdsw9Ri/ULso2jbKHPePgnhkOCG+jprgf/EtZpjYKQqIW62divklAw/
+WcCvfQx/fCpFp5fqgY7sJM2XDHXJskSzC2/ZFNQrHlQE0n2iy1pFROXR4r5ATu3r
+UYZ6+qwpHUmBny+4TPDseGPI27LITOzigxlNMsU4CLE74qTQXeJ98pXW/dNVvpzn
+uP0yg21jIaPUaDhCDU2DXPaPTC7JR0DRFuWAVNN/PcwJVzefRpQ=
+=P4tx
 -----END PGP SIGNATURE-----
