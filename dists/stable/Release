@@ -2,23 +2,23 @@ Origin: xDarkicex
 Label: libravdbd
 Suite: stable
 Codename: stable
-Version: 1.9.37-beta.1
+Version: 1.9.37-beta.2
 Architectures: amd64 arm64
 Components: main
 Description: libraVDB daemon — AI-native vector database
-Date: Sun, 06 Sep 2026 15:35:39 UTC
+Date: Tue, 08 Sep 2026 08:57:26 UTC
 MD5Sum:
- 8a7fb9f1436c887b5edb39471d7087e6    78030 main/binary-amd64/Packages
- 0de1212835b315374152722d4e30a0e0    10037 main/binary-amd64/Packages.gz
- 1c6796f871400f8d72239a3a99f7dce2    78030 main/binary-arm64/Packages
- 46a590e16d5f151da2f8d4d0179378af    10052 main/binary-arm64/Packages.gz
+ c136b6d1f97bf119e0b05bcff1790c3d    78905 main/binary-amd64/Packages
+ 4f05f070927b07cdaba03edef2918c10    10140 main/binary-amd64/Packages.gz
+ e3903de585ec2c5805346d1fa49a076a    78905 main/binary-arm64/Packages
+ 2a6eac569e21c6499650246cdfe5ea60    10154 main/binary-arm64/Packages.gz
 SHA1:
- d085eabb6afe6e76fff7a935ae9fd9f8d8905c4c    78030 main/binary-amd64/Packages
- c3fc437d94f1ad4647a6e061e125adf0993909a8    10037 main/binary-amd64/Packages.gz
- ecb0d0159811c6f6366c547aa8104af698cfd3c6    78030 main/binary-arm64/Packages
- 656ae803a583004c9a0244331a26ab188f943d20    10052 main/binary-arm64/Packages.gz
+ 9ea7c229862a348b636809131c2458d9fe5e0143    78905 main/binary-amd64/Packages
+ 82e489db65020e5c75890154724a81919325b509    10140 main/binary-amd64/Packages.gz
+ d5c18adeac4d6c2bd6935985ca7f283e93bd80db    78905 main/binary-arm64/Packages
+ 4baabd009e98783c2df3aae6cb29598204a20a8b    10154 main/binary-arm64/Packages.gz
 SHA256:
- d221b37ded68aaac9d5f02732bf4853e0446c3dfda89d31757b41f25ab6ff50b    78030 main/binary-amd64/Packages
- 97b6ed2c338edbfd132272e4b85c666840d7219a61c2c53f7c672d6ce7669a52    10037 main/binary-amd64/Packages.gz
- ac667d4b911dd4d00ddc3224b3674e6c4be2b6f6f402a3e7b7f1f01c3bab5c10    78030 main/binary-arm64/Packages
- 6ef3d5d7e2a872a476eb1d5b2e3848d0734fff18b79c10c6e27a4f95f208900d    10052 main/binary-arm64/Packages.gz
+ 872f3c7c7fe393d80ee1bca1a08fc34031e61a833c6dfa4f1dd1823712a006d6    78905 main/binary-amd64/Packages
+ 94928d5257375750de16cf1e566bfc9782859a9c5f2ec8850fd245ce95f2e3f2    10140 main/binary-amd64/Packages.gz
+ 91e5d65813feb748198264110e3da8ff1aded0e5d4372b0d7aed4ad9a090d4a7    78905 main/binary-arm64/Packages
+ 1a96dd2366d77b44fd3957dd947be4d4283ff222787c67463ca90a6308b6b108    10154 main/binary-arm64/Packages.gz
