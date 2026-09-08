@@ -1951,3 +1951,24 @@ Description: libraVDB daemon — AI-native vector database with ML embeddings
  Start the daemon: systemctl --user start libravdbd
  Provision models: sudo /usr/lib/libravdbd/provision.sh --target /var/lib/libravdbd
 
+Package: libravdbd
+Version: 1.9.37-beta.3
+Architecture: arm64
+Maintainer: xDarkicex <contact@darkicex.com>
+Depends: libc6 (>= 2.17), libgomp1
+Filename: pool/main/stable/libravdbd_1.9.37-beta.3_arm64.deb
+Size: 24395414
+MD5sum: a272599c169316734dc2b15cf795f0cd
+SHA1: e61e889ee388df367b73965bdbdb1861b5e9b4dd
+SHA256: 1e6e1caf4dfc00ff8a5392edc1d657a5c502d882ce99d154dd327dbd1b763832
+Section: utils
+Priority: optional
+Description: libraVDB daemon — AI-native vector database with ML embeddings
+ libravdbd is the daemon component of libraVDB, an AI-native
+ vector database for LLM memory and semantic search. It provides
+ embeddings, summarization, and vector storage through an RPC
+ interface backed by ONNX Runtime and llama.cpp (GGUF).
+ .
+ Start the daemon: systemctl --user start libravdbd
+ Provision models: sudo /usr/lib/libravdbd/provision.sh --target /var/lib/libravdbd
+
